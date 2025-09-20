@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 feature 1 line
 hlo Git
+=======
+feature 2 line
+>>>>>>> feature-2
 
